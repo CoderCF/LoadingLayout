@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingLayout">
+        <attr name="loading_layout_error_img" format="reference"/>
+        <attr name="loading_layout_error_text" format="string"/>
+        <attr name="loading_layout_empty_img" format="reference"/>
+        <attr name="loading_layout_empty_text" format="string"/>
+        <attr name="loading_layout_loading_text" format="string"/>
+    </declare-styleable>
+
+</resources>
