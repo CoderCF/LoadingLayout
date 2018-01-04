@@ -1,11 +1,17 @@
 # LoadingLayout
 一个可以随时切换加载中界面、错误界面、空界面、和主界面的控件
 
-##效果图
+## 效果图
 
 ![这里写图片描述](/pic/a.gif)
 
-##用法
+## 用法
+
+  添加Gradle依赖
+
+```
+compile 'com.codercf:loadinglayoutlibrary:1.0.0'
+```
 
  1.**xml布局**
 	**注：loadinglayout布局里面必须有且只有一个子布局，不然会报错。**
